@@ -30,38 +30,6 @@
       ],
       "status": "pending",
       "dataEntry": "2022-03-05 15:00"
-    },
-    {
-      "id": 2,
-      "userId": 2,
-      "client": "Katie Bouman",
-      "products": [
-        {
-          "qty": 2,
-          "product": {
-            "id": 2,
-            "name": "Café americano",
-            "price": 500,
-            "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/coffe.jpg",
-            "type": "Desayuno",
-            "dateEntry": "2022-03-05 15:14:10"
-          }
-        },
-        {
-          "qty": 1,
-          "product": {
-            "id": 3,
-            "name": "Agua 500ml",
-            "price": 500,
-            "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/water.jpg",
-            "type": "Almuerzo",
-            "dateEntry": "2022-03-05 15:14:10"
-          }
-        }
-      ],
-      "status": "delivered",
-      "dataEntry": "2022-03-05 15:00",
-      "dateProcessed": "2022-03-05 16:00"
     }
   ],
   "products": [
@@ -99,22 +67,22 @@
   ],
   "users": [
     {
-      "email": "anita.borg@systers.xyz",
-      "password": "$2a$10$gVkmcWdnwEBxXj2PWjuv9uDx7BfjiAobbabDAOrH2o8b1i3E7KwR.",
-      "role": "admin",
+      "email": "fred@gmail.com",
+      "password": "$2a$10$qJ7YNgFXJwqZ9K4UngXYNeMhNNumy/OOUSEwQ1Vg20GF6A4b1ejH.",
+      "role": "cozinha",
       "id": 1
     },
     {
-      "email": "grace.hopper@systers.xyz",
-      "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
+      "email": "chester@gmail.com",
+      "password": "$2a$10$1TSrzEeKNG6LSeG3UDkXWuMiN6P71bKXfYlqYLS.tLeNYzGmLF3Lq",
       "role": "admin",
-      "id": 2
+      "id": 4
     },
     {
-      "email": "nara.sakamoto@laboratoria.la",
-      "password": "$2a$10$VkvaBkhnm4k3KP/yCdhCgu/qtzxe7F00CVkTsAsr5pbfU8rPVZEQW",
-      "role": "admin",
-      "id": 3
+      "email": "kurt@gmail.com",
+      "password": "$2a$10$JQ1YFRi3G1RACk0SZZThWeiz67C7Yg7h4hy8Sbf4COATcMuJTVM5e",
+      "role": "garcom",
+      "id": 6
     }
   ]
 }
