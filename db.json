@@ -83,6 +83,30 @@
       "password": "$2a$10$JQ1YFRi3G1RACk0SZZThWeiz67C7Yg7h4hy8Sbf4COATcMuJTVM5e",
       "role": "garcom",
       "id": 6
+    },
+    {
+      "email": "dunes@gmail.com",
+      "password": "$2a$10$qlxBQV/4UV13TmMrypGFKuUy5OEd2oMUyelL.kVkeqmDC3aJmIzcK",
+      "role": "auxiliar",
+      "id": 7
+    },
+    {
+      "email": "fredd@gmail.com",
+      "password": "$2a$10$H9cMlP7pRGvZ2.1UvVU/JeUGC0tE4JRt7eP/L6V1743uSIAqxvlvS",
+      "role": "cozinha",
+      "id": 8
+    },
+    {
+      "email": "chesterr@gmail.com",
+      "password": "$2a$10$yBaAPVwksjSa74leeq3xIOu/7YnH9zfeouopz9dI6J/Z.9BebkIXa",
+      "role": "admin",
+      "id": 9
+    },
+    {
+      "email": "kurtt@gmail.com",
+      "password": "$2a$10$VIYe6evjonlgPXXndcMu/.o9GE2KTVexJ5D9sk32YEujXYYFc3KFW",
+      "role": "garcom",
+      "id": 10
     }
   ]
 }
