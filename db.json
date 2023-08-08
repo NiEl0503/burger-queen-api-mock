@@ -35,34 +35,82 @@
   "products": [
     {
       "id": 1,
-      "name": "Sandwich de jamón y queso",
-      "price": 1000,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
-      "type": "Desayuno",
+      "name": "arepa",
+      "price": 10,
+      "image": "https://imag.bonviveur.com/arepas-venezolanas-caseras-rellenas.webp",
+      "type": "Café da Manhã",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 2,
-      "name": "Café americano",
-      "price": 500,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
-      "type": "Desayuno",
+      "name": "empanada",
+      "price": 10,
+      "image": "https://elmundoenrecetas.s3.amazonaws.com/uploads/recipe/main_image/82/IMG_4264_1200px.jpg",
+      "type": "Café da Manhã",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 3,
-      "name": "Agua 500ml",
-      "price": 500,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
-      "type": "Almuerzo",
+      "name": "cachito",
+      "price": 10,
+      "image": "https://lacocinadegisele-oficial.com/wp-content/uploads/2020/09/06-lacocinadegisele-cachitos-venezolanos-900x600-1.jpg",
+      "type": "Café da Manhã",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "name": "Agua 500ml",
-      "price": 500,
+      "price": 5,
       "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/water.jpg",
-      "type": "Almuerzo",
+      "type": "Café da Manhã",
       "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Malta",
+      "price": 8,
+      "image": "https://farmaprime.com.ve/wp-content/uploads/2022/10/14507-FARMACIA-MARACAIBO.jpg",
+      "type": "Café da Manhã",
+      "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "id": 6,
+      "name": "Cachapa com queijo e porco",
+      "price": 20,
+      "image": "https://tofuu.getjusto.com/orioneat-prod/McMSy8D5LPKSWQm5X-Cachapa%20con%20cochino%20frito.jpg",
+      "type": "Menu Principal",
+      "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "id": 7,
+      "name": "Sombrero - Hamburguer",
+      "price": 40,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS12plE42MVMUGQK3sJ22_TMUj2JcRz0fuK4A&usqp=CAU",
+      "type": "Menu Principal",
+      "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "id": 8,
+      "name": "Patacon",
+      "price": 40,
+      "image": "https://comidasvenezolanas.org/wp-content/uploads/2021/02/patacones-venezolanos_700x466.jpg",
+      "type": "Menu Principal",
+      "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "id": 9,
+      "name": "Refrigerante",
+      "price": 6,
+      "image": "https://phantom-marca-mx.unidadeditorial.es/0b433b12fec307e0e643dfd0337843e5/resize/828/f/webp/mx/assets/multimedia/imagenes/2023/07/05/16885114616385.jpg",
+      "type": "Menu Principal",
+      "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "id": 10,
+      "name": "suco natural",
+      "price": 9,
+      "image": "https://www.cardamomo.news/__export/1622218609247/sites/debate/img/2021/05/28/jugos_naturales_crop1622218346714.jpeg_172596871.jpeg",
+      "type": "Menu Principal",
+      "dateEntry": "2022-03-05 15:14:10"
     }
   ],
   "users": [
