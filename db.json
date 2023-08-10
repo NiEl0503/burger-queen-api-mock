@@ -60,7 +60,7 @@
     {
       "name": "Agua 500ml",
       "price": 5,
-      "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/water.jpg",
+      "image": "https://aldeanatural.cl/cdn/shop/products/AGUABENEDICTINOCONGAS_360x.png?v=1677176524",
       "type": "Café da Manhã",
       "id": 4
     },
@@ -111,6 +111,20 @@
       "image": "https://www.cardamomo.news/__export/1622218609247/sites/debate/img/2021/05/28/jugos_naturales_crop1622218346714.jpeg_172596871.jpeg",
       "type": "Menu Principal",
       "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "name": "Nestea",
+      "price": 5,
+      "image": "https://valsegura.com/wp-content/uploads/2016/02/nestea-30cl.jpg",
+      "type": "Café da Manhã",
+      "id": 11
+    },
+    {
+      "name": "Agua 500ml",
+      "price": 5,
+      "image": "https://aldeanatural.cl/cdn/shop/products/AGUABENEDICTINOCONGAS_360x.png?v=1677176524",
+      "type": "Menu Principal",
+      "id": 12
     }
   ],
   "users": [
