@@ -1,35 +1,56 @@
 {
   "orders": [
     {
-      "id": 1,
-      "userId": 1,
-      "client": "Jude Milhon",
+      "id": 2,
+      "client": "Rubito Perez",
+      "mesa": "2",
       "products": [
         {
-          "qty": 1,
-          "product": {
-            "id": 1,
-            "name": "Sandwich de jamón y queso",
-            "price": 1000,
-            "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/sandwich.jpg",
-            "type": "Desayuno",
-            "dateEntry": "2022-03-05 15:14:10"
-          }
+          "id": 6,
+          "name": "Cachapa com queijo e porco",
+          "price": 20,
+          "image": "https://tofuu.getjusto.com/orioneat-prod/McMSy8D5LPKSWQm5X-Cachapa%20con%20cochino%20frito.jpg",
+          "type": "Menu Principal",
+          "dateEntry": "2022-03-05 15:14:10",
+          "quantity": 1
         },
         {
-          "qty": 1,
-          "product": {
-            "id": 2,
-            "name": "Café americano",
-            "price": 500,
-            "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/coffe.jpg",
-            "type": "Desayuno",
-            "dateEntry": "2022-03-05 15:14:10"
-          }
+          "name": "Agua 500ml",
+          "price": 5,
+          "image": "https://aldeanatural.cl/cdn/shop/products/AGUABENEDICTINOCONGAS_360x.png?v=1677176524",
+          "type": "Menu Principal",
+          "id": 12,
+          "quantity": 1
         }
       ],
-      "status": "pending",
-      "dataEntry": "2022-03-05 15:00"
+      "dataEntry": "2023-08-23T15:25:40.665Z"
+    },
+    {
+      "id": 4,
+      "client": "Shakira",
+      "mesa": "5",
+      "products": [
+        {
+          "id": 1,
+          "name": "arepa",
+          "price": 10,
+          "image": "https://imag.bonviveur.com/arepas-venezolanas-caseras-rellenas.webp",
+          "type": "Café da Manhã",
+          "dateEntry": "2022-03-05 15:14:10",
+          "quantity": 1
+        },
+        {
+          "id": 5,
+          "name": "Malta",
+          "price": 8,
+          "image": "https://farmaprime.com.ve/wp-content/uploads/2022/10/14507-FARMACIA-MARACAIBO.jpg",
+          "type": "Café da Manhã",
+          "dateEntry": "2022-03-05 15:14:10",
+          "quantity": 1
+        }
+      ],
+      "dataEntry": "2023-08-23T16:49:31.985Z",
+      "status": "string"
     }
   ],
   "products": [
@@ -128,30 +149,6 @@
     }
   ],
   "users": [
-    {
-      "email": "fred@gmail.com",
-      "password": "$2a$10$qJ7YNgFXJwqZ9K4UngXYNeMhNNumy/OOUSEwQ1Vg20GF6A4b1ejH.",
-      "role": "cozinha",
-      "id": 1
-    },
-    {
-      "email": "chester@gmail.com",
-      "password": "$2a$10$1TSrzEeKNG6LSeG3UDkXWuMiN6P71bKXfYlqYLS.tLeNYzGmLF3Lq",
-      "role": "admin",
-      "id": 4
-    },
-    {
-      "email": "kurt@gmail.com",
-      "password": "$2a$10$JQ1YFRi3G1RACk0SZZThWeiz67C7Yg7h4hy8Sbf4COATcMuJTVM5e",
-      "role": "garcom",
-      "id": 6
-    },
-    {
-      "email": "dunes@gmail.com",
-      "password": "$2a$10$qlxBQV/4UV13TmMrypGFKuUy5OEd2oMUyelL.kVkeqmDC3aJmIzcK",
-      "role": "auxiliar",
-      "id": 7
-    },
     {
       "email": "fredd@gmail.com",
       "password": "$2a$10$H9cMlP7pRGvZ2.1UvVU/JeUGC0tE4JRt7eP/L6V1743uSIAqxvlvS",
