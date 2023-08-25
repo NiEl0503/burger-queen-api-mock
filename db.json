@@ -23,7 +23,8 @@
           "quantity": 1
         }
       ],
-      "dataEntry": "2023-08-23T15:25:40.665Z"
+      "dataEntry": "2023-08-23T15:25:40.665Z",
+      "status": "pending"
     },
     {
       "id": 4,
@@ -50,7 +51,34 @@
         }
       ],
       "dataEntry": "2023-08-23T16:49:31.985Z",
-      "status": "string"
+      "status": "pending",
+      "currentStatus": "delivered"
+    },
+    {
+      "id": 5,
+      "client": "danilo",
+      "mesa": "2",
+      "products": [
+        {
+          "id": 1,
+          "name": "arepa",
+          "price": 10,
+          "image": "https://imag.bonviveur.com/arepas-venezolanas-caseras-rellenas.webp",
+          "type": "Café da Manhã",
+          "dateEntry": "2022-03-05 15:14:10",
+          "quantity": 1
+        },
+        {
+          "name": "Nestea",
+          "price": 5,
+          "image": "https://valsegura.com/wp-content/uploads/2016/02/nestea-30cl.jpg",
+          "type": "Café da Manhã",
+          "id": 11,
+          "quantity": 1
+        }
+      ],
+      "dataEntry": "2023-08-25T13:18:51.415Z",
+      "status": "pending"
     }
   ],
   "products": [
