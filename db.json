@@ -1,35 +1,9 @@
 {
   "orders": [
     {
-      "id": 2,
-      "client": "Rubito Perez",
-      "mesa": "2",
-      "products": [
-        {
-          "id": 6,
-          "name": "Cachapa com queijo e porco",
-          "price": 20,
-          "image": "https://tofuu.getjusto.com/orioneat-prod/McMSy8D5LPKSWQm5X-Cachapa%20con%20cochino%20frito.jpg",
-          "type": "Menu Principal",
-          "dateEntry": "2022-03-05 15:14:10",
-          "quantity": 1
-        },
-        {
-          "name": "Agua 500ml",
-          "price": 5,
-          "image": "https://aldeanatural.cl/cdn/shop/products/AGUABENEDICTINOCONGAS_360x.png?v=1677176524",
-          "type": "Menu Principal",
-          "id": 12,
-          "quantity": 1
-        }
-      ],
-      "dataEntry": "2023-08-23T15:25:40.665Z",
-      "status": "pending"
-    },
-    {
-      "id": 4,
-      "client": "Shakira",
-      "mesa": "5",
+      "id": 1,
+      "client": "KarolG",
+      "mesa": "3",
       "products": [
         {
           "id": 1,
@@ -50,14 +24,165 @@
           "quantity": 1
         }
       ],
-      "dataEntry": "2023-08-23T16:49:31.985Z",
-      "status": "pending",
-      "currentStatus": "delivered"
+      "dataEntry": "2023-08-28T17:19:32.861Z",
+      "dataDelivered": "2023-09-01T12:34:25.162Z",
+      "status": "delivered",
+      "currentStatus": "pending",
+      "tiempoPedido": "91h 14m 50s"
+    },
+    {
+      "id": 2,
+      "client": "BeckyG",
+      "mesa": "5",
+      "products": [
+        {
+          "id": 8,
+          "name": "Patacon",
+          "price": 40,
+          "image": "https://comidasvenezolanas.org/wp-content/uploads/2021/02/patacones-venezolanos_700x466.jpg",
+          "type": "Menu Principal",
+          "dateEntry": "2022-03-05 15:14:10",
+          "quantity": 1
+        },
+        {
+          "id": 10,
+          "name": "suco natural",
+          "price": 9,
+          "image": "https://www.cardamomo.news/__export/1622218609247/sites/debate/img/2021/05/28/jugos_naturales_crop1622218346714.jpeg_172596871.jpeg",
+          "type": "Menu Principal",
+          "dateEntry": "2022-03-05 15:14:10",
+          "quantity": 1
+        }
+      ],
+      "dataEntry": "2023-08-28T17:19:55.560Z",
+      "status": "delivered",
+      "dataDelivered": "2023-09-01T12:34:28.612Z",
+      "currentStatus": "pending",
+      "tiempoPedido": "91h 14m 31s"
+    },
+    {
+      "id": 3,
+      "client": "Adele",
+      "mesa": "2",
+      "products": [
+        {
+          "id": 5,
+          "name": "Malta",
+          "price": 8,
+          "image": "https://farmaprime.com.ve/wp-content/uploads/2022/10/14507-FARMACIA-MARACAIBO.jpg",
+          "type": "Café da Manhã",
+          "dateEntry": "2022-03-05 15:14:10",
+          "quantity": 1
+        },
+        {
+          "id": 1,
+          "name": "arepa",
+          "price": 10,
+          "image": "https://imag.bonviveur.com/arepas-venezolanas-caseras-rellenas.webp",
+          "type": "Café da Manhã",
+          "dateEntry": "2022-03-05 15:14:10",
+          "quantity": 1
+        }
+      ],
+      "dataEntry": "2023-08-30T12:50:38.398Z",
+      "status": "delivered",
+      "dataDelivered": "2023-09-01T12:34:32.093Z",
+      "currentStatus": "pending",
+      "tiempoPedidoFinal": "-470389h -51m -39s",
+      "tiempoPedido": "47h 43m 52s"
+    },
+    {
+      "id": 4,
+      "client": "Day",
+      "mesa": "3",
+      "products": [
+        {
+          "id": 6,
+          "name": "Cachapa com queijo e porco",
+          "price": 20,
+          "image": "https://tofuu.getjusto.com/orioneat-prod/McMSy8D5LPKSWQm5X-Cachapa%20con%20cochino%20frito.jpg",
+          "type": "Menu Principal",
+          "dateEntry": "2022-03-05 15:14:10",
+          "quantity": 1
+        },
+        {
+          "id": 10,
+          "name": "suco natural",
+          "price": 9,
+          "image": "https://www.cardamomo.news/__export/1622218609247/sites/debate/img/2021/05/28/jugos_naturales_crop1622218346714.jpeg_172596871.jpeg",
+          "type": "Menu Principal",
+          "dateEntry": "2022-03-05 15:14:10",
+          "quantity": 1
+        }
+      ],
+      "dataEntry": "2023-09-03T16:29:09.471Z",
+      "dataDelivered": "2023-09-03T16:29:37.759Z",
+      "status": "delivered",
+      "currentStatus": "pending",
+      "tiempoPedido": "0h 0m 27s"
     },
     {
       "id": 5,
-      "client": "danilo",
-      "mesa": "2",
+      "client": "Rubito",
+      "mesa": "4",
+      "products": [
+        {
+          "id": 7,
+          "name": "Sombrero - Hamburguer",
+          "price": 40,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS12plE42MVMUGQK3sJ22_TMUj2JcRz0fuK4A&usqp=CAU",
+          "type": "Menu Principal",
+          "dateEntry": "2022-03-05 15:14:10",
+          "quantity": 1
+        },
+        {
+          "id": 9,
+          "name": "Refrigerante",
+          "price": 6,
+          "image": "https://phantom-marca-mx.unidadeditorial.es/0b433b12fec307e0e643dfd0337843e5/resize/828/f/webp/mx/assets/multimedia/imagenes/2023/07/05/16885114616385.jpg",
+          "type": "Menu Principal",
+          "dateEntry": "2022-03-05 15:14:10",
+          "quantity": 1
+        }
+      ],
+      "dataEntry": "2023-09-04T20:29:55.268Z",
+      "dataDelivered": null,
+      "status": "pending"
+    },
+    {
+      "id": 6,
+      "client": "Nury",
+      "mesa": "3",
+      "products": [
+        {
+          "id": 6,
+          "name": "Cachapa com queijo e porco",
+          "price": 20,
+          "image": "https://tofuu.getjusto.com/orioneat-prod/McMSy8D5LPKSWQm5X-Cachapa%20con%20cochino%20frito.jpg",
+          "type": "Menu Principal",
+          "dateEntry": "2022-03-05 15:14:10",
+          "quantity": 1
+        },
+        {
+          "id": 10,
+          "name": "suco natural",
+          "price": 9,
+          "image": "https://www.cardamomo.news/__export/1622218609247/sites/debate/img/2021/05/28/jugos_naturales_crop1622218346714.jpeg_172596871.jpeg",
+          "type": "Menu Principal",
+          "dateEntry": "2022-03-05 15:14:10",
+          "quantity": 1
+        }
+      ],
+      "dataEntry": "2023-09-05T15:09:56.970Z",
+      "dataDelivered": "2023-09-05T15:10:50.076Z",
+      "status": "delivered",
+      "currentStatus": "pending",
+      "tiempoPedido": "0h 0m 44s"
+    },
+    {
+      "id": 7,
+      "client": "Ninoska",
+      "mesa": "3",
       "products": [
         {
           "id": 1,
@@ -69,16 +194,19 @@
           "quantity": 1
         },
         {
-          "name": "Nestea",
+          "name": "Agua 500ml",
           "price": 5,
-          "image": "https://valsegura.com/wp-content/uploads/2016/02/nestea-30cl.jpg",
+          "image": "https://aldeanatural.cl/cdn/shop/products/AGUABENEDICTINOCONGAS_360x.png?v=1677176524",
           "type": "Café da Manhã",
-          "id": 11,
+          "id": 4,
           "quantity": 1
         }
       ],
-      "dataEntry": "2023-08-25T13:18:51.415Z",
-      "status": "pending"
+      "dataEntry": "2023-09-06T13:07:37.124Z",
+      "dataDelivered": "2023-09-06T13:08:19.075Z",
+      "status": "delivered",
+      "currentStatus": "pending",
+      "tiempoPedido": "0h 0m 40s"
     }
   ],
   "products": [
@@ -178,22 +306,22 @@
   ],
   "users": [
     {
-      "email": "fredd@gmail.com",
-      "password": "$2a$10$H9cMlP7pRGvZ2.1UvVU/JeUGC0tE4JRt7eP/L6V1743uSIAqxvlvS",
-      "role": "cozinha",
-      "id": 8
-    },
-    {
-      "email": "chesterr@gmail.com",
-      "password": "$2a$10$yBaAPVwksjSa74leeq3xIOu/7YnH9zfeouopz9dI6J/Z.9BebkIXa",
+      "email": "chesterAdmin@gmail.com",
+      "password": "$2a$10$6aFcZIZwwSCneOTouI58DuELSKUHLGFx4sIPFEJk03B/k5hB8Vdpi",
       "role": "admin",
-      "id": 9
+      "id": 13
     },
     {
-      "email": "kurtt@gmail.com",
-      "password": "$2a$10$VIYe6evjonlgPXXndcMu/.o9GE2KTVexJ5D9sk32YEujXYYFc3KFW",
+      "email": "kurtGarcom@gmail.com",
+      "password": "$2a$10$RA0XbSOGp/jwN0u/1Y78huW3hsV44PklGHHo7Fy6GAFBON/rBjDRW",
       "role": "garcom",
-      "id": 10
+      "id": 14
+    },
+    {
+      "email": "fredCozinha@gmail.com",
+      "password": "$2a$10$gTR69cepXwYVqNd2uLmx4OL1xza6.HsNRooPFzVT9z/9t3VqaQNFu",
+      "role": "cozinha",
+      "id": 15
     }
   ]
 }
